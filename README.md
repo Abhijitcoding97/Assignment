@@ -7,4 +7,4 @@
 ### Mobile View
 ![ass1.0](images/ass1.0.jpg)
 #
-![assignment 1](images/assignment1.jpg)
+![assignment1](images/assignment1.jpg)
